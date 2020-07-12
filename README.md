@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Mohammad Farmaan!😄
 
-**I'm currently working on Frontend Web Development, and I'm half way there. With that, I love UI/UX designing too.😁**
+**I'm currently working on Frontend Web Development, and I'm half way there. With that said, I love UI/UX designing and article writinng too.😁**
 
 * Explore my repositories to find out what I've worked on.:octocat: Feel free to check out the code, but don't forget to add your own taste to it!:sparkles:
 
