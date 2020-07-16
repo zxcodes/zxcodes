@@ -17,7 +17,7 @@
 * MERN Stack.
 * Native App Development (Kotlin/Swift).
 
-**My end goal is to be a Full Stack Web & App Developer.**
+* **End goal is to be a Full Stack Web & App Developer.**
 
 **Here's my blog with a few articles which you may find useful:**
 https://dev.to/mohammadfarmaan
