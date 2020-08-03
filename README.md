@@ -19,7 +19,7 @@
 
 >**End goal is to be a Full Stack Web & App Developer.**
 
-**Here's my blog with a few articles which you may find useful:**
+**Here's my blog with a few articles which you may find helpful:**
 https://dev.to/mohammadfarmaan
 
 **Here's the link to my Portfolio:** 
