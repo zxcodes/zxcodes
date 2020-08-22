@@ -7,6 +7,7 @@
 **Things that I'm currently good at:**
 * Frontend Web Development (HTML, CSS &  Vanilla JavaScript).
 * Responsive Web Design (RWD).
+* Flutter (Frontend).
 * Web & App Design (Figma).
 * Article Writing.
 
