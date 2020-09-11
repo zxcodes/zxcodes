@@ -13,7 +13,7 @@
 
 **Things I'm willing to learn after mastering Frontend Web Development:**
 * React/Angular/Vue.
-* React Native/Flutter.
+* React Native/Flutter (Backend).
 * PWA(s).
 * MERN Stack.
 * Native App Development (Kotlin/Swift).
