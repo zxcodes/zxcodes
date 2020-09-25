@@ -24,7 +24,7 @@
 https://dev.to/mohammadfarmaan
 
 **Here's the link to my Portfolio:** 
->https://bit.ly/zx3d
+>https://bit.ly/zx5d
 
 **And finally, thanks for the visit. If you like any of my projects, fork it, mess around with it, and don't forget to star the repo!:star:**
 >**Happy Coding!:octocat::heart:**
