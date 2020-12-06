@@ -1,19 +1,20 @@
 ### Hi there! 👋 I'm Mohammed Farmaan!
 
-**I'm currently working on Frontend Web Development, and I'm half way there. With that said, I love UI/UX designing and writinng too.😁**
+**I'm currently working on Frontend Web & App Development. With that said, I also focus on UI/UX design & Writing.**
 
-* Explore my repositories to find out what I've worked on.:octocat: Feel free to check out the code, but don't forget to add your own taste to it!:sparkles:
+* Explore my repositories to find out what I've worked on, and feel free to check out the code.:octocat::sparkles:
 
 **Things that I'm currently good at:**
-* Frontend Web Development (HTML, CSS &  Vanilla JavaScript).
+* Frontend Web Development (HTML, CSS & JavaScript).
 * Responsive Web Design (RWD).
 * Flutter (Frontend).
 * UI/UX (Figma).
 * Writing.
 
-**Things I'm willing to learn after mastering Frontend Web Development:**
-* React/Vue.
-* React Native/Flutter (Backend).
+**Things I'll be focusing on after mastering Frontend Web Development:**
+* React
+* React Native.
+* Flutter (Backend).
 * PWA(s).
 * MERN Stack.
 * Native App Development (Kotlin/Swift).
