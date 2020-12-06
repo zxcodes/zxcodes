@@ -1,6 +1,6 @@
-### Hi there! 👋 I'm Mohammed Farmaan!
+### Hi there! I'm Mohammed Farmaan.
 
-**I'm currently working on Frontend Web & App Development. With that said, I also focus on UI/UX design & Writing.**
+**I'm currently working on Frontend Web & App Development. With that said, I also focus on UI/UX Design & Writing.**
 
 * Explore my repositories to find out what I've worked on, and feel free to check out the code.:octocat::sparkles:
 
