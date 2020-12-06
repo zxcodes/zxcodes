@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Mohammad Farmaan!😄
+### Hi there! 👋 I'm Mohammed Farmaan!😄
 
 **I'm currently working on Frontend Web Development, and I'm half way there. With that said, I love UI/UX designing and article writinng too.😁**
 
@@ -8,7 +8,7 @@
 * Frontend Web Development (HTML, CSS &  Vanilla JavaScript).
 * Responsive Web Design (RWD).
 * Flutter (Frontend).
-* Web & App Design (Figma).
+* UI/UX (Figma).
 * Article Writing.
 
 **Things I'm willing to learn after mastering Frontend Web Development:**
