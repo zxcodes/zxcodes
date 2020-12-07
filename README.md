@@ -11,6 +11,8 @@
 * UI/UX (Figma).
 * Writing.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zxcodes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 **Things that I'll be focusing later on:**
 * React
 * React Native.
@@ -29,3 +31,4 @@ https://dev.to/mohammedfarmaan
 
 **If you like any of my projects, fork it, mess around with it, and don't forget to star the repo!:star:**
 >**Happy Coding!:octocat::heart:**
+
