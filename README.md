@@ -25,7 +25,7 @@
 https://dev.to/mohammedfarmaan
 
 **Here's the link to my Portfolio:** 
->https://bit.ly/zx5d
+>https://bit.ly/zxcodes
 
 **If you like any of my projects, fork it, mess around with it, and don't forget to star the repo!:star:**
 >**Happy Coding!:octocat::heart:**
