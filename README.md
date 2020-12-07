@@ -4,14 +4,14 @@
 
 * Explore my repositories to find out what I've worked on, and feel free to check out the code.:octocat::sparkles:
 
-**Things that I'm currently good at:**
+**What I'm currently good at:**
 * Frontend Web Development (HTML, CSS & JavaScript).
 * Responsive Web Design (RWD).
 * Flutter (Frontend).
 * UI/UX (Figma).
 * Writing.
 
-**Things I'll be focusing later on:**
+**Things that I'll be focusing later on:**
 * React
 * React Native.
 * Flutter (Backend).
