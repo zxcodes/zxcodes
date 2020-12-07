@@ -11,7 +11,7 @@
 * UI/UX (Figma).
 * Writing.
 
-**Things I'll be focusing on after mastering Frontend Web Development:**
+**Things I'll be focusing later on:**
 * React
 * React Native.
 * Flutter (Backend).
