@@ -14,11 +14,9 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zxcodes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **Things that I'll be focusing later on:**
-* React
-* React Native.
+* Vue JS
 * Flutter (Backend).
-* PWA(s).
-* MERN Stack.
+* MEVN Stack.
 * Native App Development (Kotlin/Swift).
 
 >**The end goal is to be a Full Stack Web & App Developer.**
