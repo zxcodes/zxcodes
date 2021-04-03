@@ -1,8 +1,7 @@
 ### I'm Mohammed Farmaan.
+**A Frontend Web & App Developer from Hyderabad, India.**
 
-**A Frontend Web & App Developer from Hyderabad, India. With that said, I also focus on UI/UX Design & Writing.**
-
-* Explore my repositories to find out what I've worked on, and feel free to check out the code.:octocat::sparkles:
+**Explore my repositories to find out the projects that I've worked on, and feel free to check out the code.:octocat::sparkles:**
 
 **What I'm currently good at:**
 * Frontend Web Development (HTML, CSS & JavaScript).
