@@ -26,7 +26,7 @@
 **Here's my blog with a few articles which you may find helpful:**
 https://dev.to/mohammedfarmaan
 
-**Here's the link to my Portfolio:** 
+**Here's the link to my Personal Portfolio (v3.0): (In progress)** 
 >https://bit.ly/zxcodes
 
 **If you like any of my projects, fork it, mess around with it, and don't forget to star the repo!:star:**
