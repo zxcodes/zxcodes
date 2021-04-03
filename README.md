@@ -1,6 +1,6 @@
-### Hi there! I'm Mohammed Farmaan.
+### I'm Mohammed Farmaan.
 
-**I'm currently working on Frontend Web & App Development. With that said, I also focus on UI/UX Design & Writing.**
+**A Frontend Web & App Developer from Hyderabad, India. With that said, I also focus on UI/UX Design & Writing.**
 
 * Explore my repositories to find out what I've worked on, and feel free to check out the code.:octocat::sparkles:
 
@@ -13,8 +13,11 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zxcodes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-**Things that I'll be focusing later on: (In Progress)**
+**Things I'm currently focusing on:**
 * Vue JS
+* Modern JavaScript (ES6 & later)
+
+**Things that I'll focus later on:**
 * Flutter (Backend).
 * MEVN Stack.
 * Native App Development (Kotlin/Swift).
