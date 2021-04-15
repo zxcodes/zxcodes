@@ -13,8 +13,9 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zxcodes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **Things I'm currently focusing on:**
-* Vue JS
-* Modern JavaScript (ES6 & later)
+* React JS.
+* Vue JS.
+* Modern JavaScript (ES6 & later).
 
 **Things that I'll focus later on:**
 * Flutter (Backend).
