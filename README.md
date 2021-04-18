@@ -19,7 +19,7 @@
 
 **Things that I'll focus later on:**
 * Flutter (Backend).
-* MEVN Stack.
+* MERN Stack.
 * Native App Development (Kotlin/Swift).
 
 >**The end goal is to be a Full Stack Web & App Developer.**
@@ -29,6 +29,9 @@ https://dev.to/mohammedfarmaan
 
 **Here's the link to my Personal Portfolio (old) (v3.0 in progress).** 
 >https://bit.ly/zxcodes
+
+**Here's a link to all my projects:**
+>https://bit.ly/DevLinkTree
 
 **If you like any of my projects, fork it, mess around with it, and don't forget to star the repo!:star:**
 >**Happy Coding!:octocat::heart:**
