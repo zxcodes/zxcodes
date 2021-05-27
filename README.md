@@ -6,6 +6,7 @@
 **What I'm currently good at:**
 * Frontend Web Development (HTML, CSS & JavaScript).
 * Responsive Web Design (RWD).
+* React.
 * Flutter (Frontend).
 * UI/UX (Figma).
 * Writing.
@@ -13,7 +14,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zxcodes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **Things I'm currently focusing on:**
-* React JS.
+* React JS advanced.
 * Vue JS.
 * Modern JavaScript (ES6 & later).
 
@@ -31,7 +32,7 @@ https://dev.to/mohammedfarmaan
 >https://bit.ly/zxcodes
 
 **Here's a link to all my projects:**
->https://bit.ly/DevLinkTree
+>https://bit.ly/DevLinks
 
 **If you like any of my projects, fork it, mess around with it, and don't forget to star the repo!:star:**
 >**Happy Coding!:octocat::heart:**
