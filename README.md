@@ -1,4 +1,4 @@
-### I'm Mohammed Farmaan.
+# Hey there! I'm Mohammed Farmaan.
 **A Frontend Web & App Developer from Hyderabad, India.**
 
 **Explore my repositories to find out the projects that I've worked on, and feel free to check out the code.:octocat::sparkles:**
@@ -15,6 +15,7 @@
 
 **Things I'm currently focusing on:**
 * React JS advanced.
+* React Native.
 * Vue JS.
 * Modern JavaScript (ES6 & later).
 
@@ -23,7 +24,7 @@
 * MERN Stack.
 * Native App Development (Kotlin/Swift).
 
->**The end goal is to be a Full Stack Web & App Developer.**
+>**The goal is to be a Full Stack Web & App Developer.**
 
 **Here's my blog with a few articles which you may find helpful:**
 https://dev.to/mohammedfarmaan
