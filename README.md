@@ -32,7 +32,7 @@ https://dev.to/mohammedfarmaan
 >https://bit.ly/zxcodes
 
 **Here's a link to all my projects:**
->https://bit.ly/DevLinks
+>https://bit.ly/MyDevLinks
 
 **If you like any of my projects, fork it, mess around with it, and don't forget to star the repo!:star:**
 >**Happy Coding!:octocat::heart:**
