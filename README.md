@@ -31,7 +31,7 @@ https://dev.to/mohammedfarmaan
 **Here's the link to my Personal Portfolio (old) (v3.0 in progress).** 
 >https://bit.ly/zxcodes
 
-**Here's a link to all my projects:**
+**Here's my Link Tree:**
 >https://bit.ly/MyDevLinks
 
 **If you like any of my projects, fork it, mess around with it, and don't forget to star the repo!:star:**
