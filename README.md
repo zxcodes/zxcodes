@@ -13,7 +13,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zxcodes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **Things I'm currently focusing on:**
-* MERN Stack (Mongo db, Expres, React, Node JS).
+* MERN Stack (Mongo db, Express, React, Node JS).
 * Progressive Web Apps.
 
 **Things that I'll focus later on:**
