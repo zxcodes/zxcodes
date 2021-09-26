@@ -13,14 +13,11 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zxcodes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **Things I'm currently focusing on:**
-* React JS advanced.
-* React Native.
-* Vue JS.
-* Modern JavaScript (ES6 & later).
+* MERN Stack (Mongo db, Expres, React, Node JS).
+* Progressive Web Apps.
 
 **Things that I'll focus later on:**
 * Flutter (Backend).
-* MERN Stack.
 * Native App Development (Kotlin/Swift).
 
 >**The goal is to be a Full Stack Web & App Developer.**
