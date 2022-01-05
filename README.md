@@ -1,5 +1,5 @@
 # Hola!👋🏻 I'm Mohammed Farmaan.
-**A Frontend Web Developer from Hyderabad, India.**
+**A Frontend Web & App Developer from Hyderabad, India.**
 
 **Explore my repositories to find out the projects that I've worked on, and feel free to contribute.:octocat::sparkles:**
 
