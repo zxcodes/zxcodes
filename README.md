@@ -3,32 +3,27 @@
 
 **Explore my repositories to find out the projects that I've worked on, and feel free to contribute.:octocat::sparkles:**
 
-**What I'm currently good at:**
-* Frontend Web Development (HTML, CSS & Vanilla JavaScript).
-* React & React Native.
+### Current Stack:
+* Web Development (HTML, CSS, JavaScript (ES6 & beyond) ).
+* React JS & React Native.
 * Flutter (Frontend).
 * UI/UX (Figma).
-* Writing.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zxcodes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-**Things I'm currently focusing on:**
+### On My Roadmap:
 * MERN Stack (Mongo db, Express, React, Node JS).
+* SSR (Next JS).
 * Progressive Web Apps.
+* Web Security.
 
-**Things that I'll focus later on:**
-* Flutter (Backend).
+### Not So Important, But Worth a Shot:
 * Native App Development (Kotlin/Swift).
 
->**The goal is to be a Full Stack Web & App Developer.**
-
 **Here's my blog with a few articles which you may find helpful:**
-https://dev.to/mohammedfarmaan
+https://dev.to/zxcodes
 
-**Here's the link to my Personal Portfolio (old) (v3.0 in progress).** 
->https://bit.ly/zxcodes
-
-**Here's my Link Tree:**
+### My Link Tree:
 >https://bit.ly/MyDevLinks
 
 **If you like any of my projects, fork it, mess around with it, and don't forget to star the repo!:star:**
