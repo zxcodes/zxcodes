@@ -1,7 +1,7 @@
 # Hi there!👋🏻 I'm Mohammed Farmaan.
 **A Passionate Frontend Web & App Developer from Hyderabad, India.**
 
-**These are few of my projects that I've worked on. Feel free to use them & contribute.:octocat::sparkles:**
+**These repos are some of the stuff that I've worked on.:octocat::sparkles:**
 
 ### Current Stack:
 * JavaScript (ES6 & beyond).
@@ -29,9 +29,6 @@
 
 **My blog with some few articles that might help you:**
 https://dev.to/zxcodes
-
-### My Link Tree:
->https://bit.ly/MyDevLinks
 
 >**Happy Coding!:octocat::heart:**
 
