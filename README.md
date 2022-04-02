@@ -20,7 +20,7 @@
 * Express JS.
 * Node JS.
 * Tailwind CSS.
-* SSR (Next JS).
+* Next JS.
 * Progressive Web Apps.
 * Web Security & Accessibility.
 
