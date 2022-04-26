@@ -1,4 +1,4 @@
-# Hola!👋🏻 I'm Mohammed Farmaan.
+# Hey!👋🏻 I'm Mohammed Farmaan.
 **A Passionate Frontend Web & App Developer from Hyderabad, India.**
 
 **These repos are some of the stuff that I've worked on.:octocat::sparkles:**
