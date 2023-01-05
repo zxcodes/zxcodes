@@ -13,8 +13,6 @@
 * Flutter (Frontend).
 * Design (Figma).
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zxcodes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### On My Roadmap:
 * Mongo DB.
 * Express JS.
