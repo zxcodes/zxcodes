@@ -1,9 +1,7 @@
 # Hey!👋🏻 I'm Mohammed Farmaan.
-**A Passionate Frontend Web & App Developer from Hyderabad, India.**
+**A Passionate Frontend Engineer from Hyderabad, India.**
 
-**These repos are some of the stuff that I've worked on.:octocat::sparkles:**
-
-### Current Stack:
+### Tech I've been working with:
 * JavaScript (ES6 & beyond).
 * React JS.
 * React Native.
