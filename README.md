@@ -16,7 +16,6 @@
 ### On My Roadmap:
 * Mongo DB.
 * Express JS.
-* Node JS.
 * Tailwind CSS.
 * Next JS.
 * Progressive Web Apps.
