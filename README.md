@@ -13,7 +13,7 @@
 * SASS.
 * UI/UX (Figma).
 
-### On My Roadmap:
+### Also trying to work with:
 * Mongo DB.
 * Express JS.
 * Tailwind CSS.
