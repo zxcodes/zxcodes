@@ -21,7 +21,7 @@
 * Progressive Web Apps.
 * Web Security & Accessibility.
 
-**My blog with some few articles that might help you:**
+**My blog with some articles that might help you:**
 https://dev.to/zxcodes
 
 >**Happy Coding!:octocat::heart:**
