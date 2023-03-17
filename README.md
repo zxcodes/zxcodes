@@ -6,6 +6,8 @@
 * TypeScript.
 * React JS.
 * React Native.
+* Node JS.
+* Python.
 * HTML5.
 * CSS3.
 * SASS.
