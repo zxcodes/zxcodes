@@ -5,7 +5,7 @@
 * JavaScript (ES6 & beyond).
 * TypeScript.
 * React JS.
-* React Native.
+* React Native & RN(Expo). 
 * Node JS.
 * Python.
 * HTML5.
