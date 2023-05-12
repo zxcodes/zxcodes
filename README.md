@@ -2,16 +2,12 @@
 **A Passionate Frontend Engineer from Hyderabad, India.**
 
 ### Tech I've been working with:
-* JavaScript (ES6 & beyond).
+* JavaScript.
 * TypeScript.
 * React JS.
 * React Native & RN(Expo). 
 * Node JS.
 * Python.
-* HTML5.
-* CSS3.
-* SASS.
-* UI/UX (Figma).
 
 ### Also trying to work with:
 * Mongo DB.
