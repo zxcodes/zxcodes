@@ -1,28 +1,17 @@
 # Hey! It's Farmaan here.
-**A Passionate Frontend Engineer from Hyderabad, India.**
+## I'm a Frontend Engineer from Hyderabad, India. And here's a little brief about me!
 
-### Tech I've been married to:
-* JavaScript.
-* TypeScript.
-* React JS.
-* React Native & RN(Expo). 
-* Node JS.
-* Python.
+### So, I've been married to this Tech for a while now and I think we get along really well:
+- #### JavaScript, TypeScript, React, React Native && Expo, Node, & Python.
 
-### And the tech I've been dating for a while now:
-* Mongo DB.
-* Express JS.
-* Tailwind CSS.
-* Next JS.
-* Progressive Web Apps.
-* Web Security & Accessibility.
+### And here's some of the Tech that I've been dating for a while now and I think we're doing good:
+- #### Mongo, Express, Tailwind, Next, PWAs, Web Security, Web Assembly, Accessibility & more.
 
-**Some articles that might help you:**
-https://dev.to/zxcodes
+**I used to write (planning to write more), but meanwhile, you can read some of my [articles](https://dev.to/zxcodes) that are poorly written. And please don't judge me based on those, they're really old! :P**
 
-**And, I love writing while taking some pretty good pictures!
-Check them out at [zx.shots](https://instagram.com/zx.shots).**
+**You can check out some of the projects that I've built (good ones are currently private). And, I also love writing things other than Tech while taking some pretty good pictures which you can check out here [Instagram](https://instagram.com/zx.shots).**
 
-**That's probably it!**
->**Happy Coding!:octocat::heart:**
+**I guess that's probably it. And if there's anything, you can reach me out on my [Twitter](https://twitter.com/zxcodes).**
+
+>**Happy Coding! :octocat::heart:**
 
