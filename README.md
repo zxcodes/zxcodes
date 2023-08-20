@@ -1,7 +1,7 @@
-# Hey there!👋🏻 I'm Mohammed Farmaan.
+# Hey! It's Farmaan here.
 **A Passionate Frontend Engineer from Hyderabad, India.**
 
-### Tech I've been working with:
+### Tech I've been married to:
 * JavaScript.
 * TypeScript.
 * React JS.
@@ -9,7 +9,7 @@
 * Node JS.
 * Python.
 
-### Also trying to work with:
+### And the tech I've been dating for a while now:
 * Mongo DB.
 * Express JS.
 * Tailwind CSS.
@@ -17,8 +17,12 @@
 * Progressive Web Apps.
 * Web Security & Accessibility.
 
-**My blog with some articles that might help you:**
+**Some articles that might help you:**
 https://dev.to/zxcodes
 
+**And, I love writing while taking some pretty good pictures!
+Check them out at [zx.shots](https://instagram.com/zx.shots).**
+
+**That's probably it!**
 >**Happy Coding!:octocat::heart:**
 
