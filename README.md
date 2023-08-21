@@ -7,11 +7,11 @@
 ### And here's some of the Tech that I've been dating for a while now and I think we're doing good:
 - #### Mongo, Express, Tailwind, Next, PWAs, Web Security, Web Assembly, Accessibility & more.
 
-### I used to write (planning to write more), but meanwhile, you can read some of my [articles](https://dev.to/zxcodes) that are poorly written. And please don't judge me based on those, they're really old! :P**
+#### I used to write (planning to write more), but meanwhile, you can read some of my [articles](https://dev.to/zxcodes) that are poorly written. And please don't judge me based on those, they're really old! :P**
 
-### You can check out some of the projects that I've built (good ones are currently private). And, I also love writing about things other than Tech while taking some pretty good pictures which you can check out here [Instagram](https://instagram.com/zx.shots).**
+#### You can check out some of the projects that I've built (good ones are currently private). And, I also love writing about things other than Tech while taking some pretty good pictures which you can check out here [Instagram](https://instagram.com/zx.shots).**
 
-### I guess that's probably it. And if there's anything, you can reach me out on my [Twitter](https://twitter.com/zxcodes).**
+#### I guess that's probably it. And if there's anything, you can reach me out on my [Twitter](https://twitter.com/zxcodes).**
 
->### Happy Coding! :octocat::heart:**
+>#### Happy Coding! :octocat::heart:**
 
