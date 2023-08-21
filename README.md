@@ -9,7 +9,7 @@
 
 #### I used to write (planning to write more), but meanwhile, you can read some of my [articles](https://dev.to/zxcodes) that are poorly written. And please don't judge me based on those, they're really old! :P
 
-#### You can check out some of the projects that I've built (good ones are currently private). And, I also love writing about things other than Tech while taking some pretty good pictures which you can check out [here](https://instagram.com/zx.shots).
+#### You can also check out some of the projects I built (good ones are currently private). And, I also love writing about things other than Tech while taking some pretty good pictures which you can check out [here](https://instagram.com/zx.shots).
 
 #### I guess that's probably it. And if there's anything, you can reach me out on my [Twitter](https://twitter.com/zxcodes).
 
