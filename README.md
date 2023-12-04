@@ -2,10 +2,10 @@ Hey! It's Farmaan here.
 
 I'm a Frontend Engineer from Hyderabad, India. And here's a little brief about me!
 
-So, I've been married to this Tech for a while now and I think we get along really well:
+So, I've been working with this Tech for a while now and I think we get along really well:
 - JavaScript, TypeScript, React, React Native, Expo, Node, & Python.
 
-And here's some Tech that I've been dating for sometime now and I think we're doing good:
+And here's some of the Tech that I've been following along:
 - Mongo, Express, Tailwind, Next, PWAs, Web Security, Web Assembly, Accessibility & more.
 
 I used to write (planning to write more), but meanwhile, you can read some of my [articles](https://dev.to/zxcodes) that are poorly written. And please don't judge me based on those, they're really old! :P
