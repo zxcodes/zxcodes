@@ -1,8 +1,8 @@
 Hey! It's Farmaan here.
 
-I'm a Frontend Engineer from Hyderabad, India. And here's a little brief about me!
+I'm a Frontend Engineer from Hyderabad, India. And here's a short brief about me!
 
-So, I've been working with this Tech for a while now and I think we get along really well:
+I've been working with this Tech for a while now and I think we get along really well:
 - JavaScript, TypeScript, React, React Native, Expo, Node, & Python.
 
 And here's some of the Tech that I've been following along:
